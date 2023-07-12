@@ -1,7 +1,7 @@
 contract MyToken {
 
     // public variables here
-    string public tokenName = "MXP";
+    string public tokenName = "GMX";
     string public abbrv = "MX";
     uint public totalSupply = 0;
     
