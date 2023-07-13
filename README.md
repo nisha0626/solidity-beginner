@@ -25,6 +25,6 @@ This will help to map our addresses to balances:
 2)For Destruction:
 For the token destruction we create a function called as burn function which is opposite to the mint function and has same parameter required for  creating the token.It will take an address and value just like the mint functions.It will then deduct the value from the total supply and from the balance.
 
-License
+License:
 This project is licensed under the Solidity Assessment License - see the LICENSE.md file for details.
 
