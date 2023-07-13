@@ -4,6 +4,7 @@ This is a simple token creation project.In this we can understand how to creat o
 ## DESCRIPTION
 The token creation contract has three public variable.
 These are as follows:
+
 1)tokenName:
 It is a string data type reprents the token name.
 
