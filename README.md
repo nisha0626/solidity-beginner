@@ -6,8 +6,10 @@ The token creation contract has three public variable.
 These are as follows:
 1)tokenName:
 It is a string data type reprents the token name.
+
 2)tokenAbbre:
 It is also an string data type which represents the abbrevation of token.
+
 3)totalSupply:
 It is  an unsigned integer which represents the total supply of token and we will take this so that our totalSupply can never be zero.
 
